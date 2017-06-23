@@ -1,0 +1,5 @@
+===============Git错误=====================
+1、git push错误
+ 解决方案：http://www.fx114.net/qa-140-112798.aspx
+2、git常见错误
+ http://blog.csdn.net/god_wot/article/details/10522405

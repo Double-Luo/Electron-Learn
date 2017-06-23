@@ -1,0 +1,5 @@
+=================================
+cannot find modele 'electron'
+问题原因：electron-prebuilt 太老了换成了1.41的版本。
+================================
+document is not defined
