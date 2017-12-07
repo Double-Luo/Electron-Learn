@@ -3,3 +3,5 @@
  解决方案：http://www.fx114.net/qa-140-112798.aspx
 2、git常见错误
  http://blog.csdn.net/god_wot/article/details/10522405
+3、fatal: Not a git repository (or any of the parent directories): .git
+ git init就可以了！
